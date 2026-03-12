@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/dns-lexicon/
 License:	None
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:	python%{pyver}dist(hatchling)
 BuildSystem:	python
 BuildArch:	noarch
 
