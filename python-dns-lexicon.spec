@@ -2,7 +2,7 @@
 %define oname dns_lexicon
 
 Name:		python-dns-lexicon
-Version:	3.25.0
+Version:	3.25.1
 Release:	1
 Summary:	Manipulate DNS records on various DNS providers in a standardized/agnostic way
 License:	None
