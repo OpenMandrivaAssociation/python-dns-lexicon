@@ -3,7 +3,7 @@
 
 Name:		python-dns-lexicon
 Version:	3.25.2
-Release:	1
+Release:	2
 Summary:	Manipulate DNS records on various DNS providers in a standardized/agnostic way
 License:	None
 Group:		Development/Python
